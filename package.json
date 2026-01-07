@@ -1,0 +1,11 @@
+{
+  "name": "FILA-COM_PRIORIDADE",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/teste.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
